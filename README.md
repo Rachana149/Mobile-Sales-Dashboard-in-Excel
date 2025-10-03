@@ -27,5 +27,4 @@ Pivot Tables
 Pivot Charts
 Slicers & Timeline filters
 Conditional Formatting
-
 Excel Formulas (SUM, IF, VLOOKUP, etc.)
